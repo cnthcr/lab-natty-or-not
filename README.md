@@ -1,4 +1,4 @@
-![Gato_Robo](https://github.com/cnthcr/lab-natty-or-not/assets/157423671/6dff877a-302b-47f0-a6b3-a9bbe556253f)![image](https://github.com/cnthcr/lab-natty-or-not/assets/157423671/18821763-bced-4b69-9e89-36c49722869a)## Explorando a Fronteira entre o Real e o Artificial com Imagens Geradas por Inteligência Artificial 🤖
+## Explorando a Fronteira entre o Real e o Artificial com Imagens Geradas por Inteligência Artificial 🤖
 
 ## 📒 Descrição
 O projeto explora a criação de imagens através da Inteligência Artificial, revelando a fascinante fronteira entre o real e o artificial. Descubra o poder e a capacidade da IA de criar arte digital que desafia a imaginação e redefine os limites da criatividade. Desde paisagens deslumbrantes até personagens detalhados.
